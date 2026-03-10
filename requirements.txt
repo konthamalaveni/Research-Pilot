@@ -1,0 +1,7 @@
+streamlit
+groq
+wikipedia
+duckduckgo-search
+python-dotenv
+gtts
+langdetect
